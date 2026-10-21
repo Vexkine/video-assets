@@ -30,3 +30,12 @@ Bố cục `assets/` giữ y như `video-engine/public/assets/` trước đây (
 ## Dọn kho
 
 `cd asset-engine && npm run cli -- gc` liệt kê hình không brief nào trong `video-engine/briefs/` dùng; thêm `--apply` mới xoá. Xem `asset-engine/docs/CONTRACT.md`.
+
+## Giám sát CDN
+
+Workflow `.github/workflows/cdn-monitor.yml` chạy **mỗi 3 giờ** (và tay: `gh workflow run cdn-monitor.yml`) trên runner GitHub. `monitor/probe.mjs` (Node 20+, không phụ thuộc gói) đo 3 nguồn: `raw.githubusercontent.com`, jsDelivr `@master`, jsDelivr ghim `@<commit>`; mỗi nguồn: 40 hình ngẫu nhiên (lần đầu, rồi lần hai đã nóng) và lưới 60 hình tải lười 6 luồng; kèm kiểm `index/release.json` nếu đã có. Ngưỡng đạt: lỗi < 1%, không timeout, p95 TTFB < 1,5 s ở lần nóng; vượt ngưỡng thì job báo đỏ.
+
+- Kết quả nằm ở nhánh **`monitor`**, tệp `data/YYYY-MM.jsonl` (mỗi lần chạy một dòng JSON). **Nhánh này là dữ liệu dùng một lần: lịch sử có thể bị xoá hoặc viết lại bất cứ lúc nào, đừng dựa vào nó như bản ghi vĩnh viễn.** Workflow không lưu bí mật nào, chỉ dùng `GITHUB_TOKEN` mặc định với `contents: write`.
+- Đọc báo cáo: `node monitor/report.mjs --fetch --since 2026-10-21` (lấy `data/` từ nhánh `monitor` qua git), hoặc `node monitor/report.mjs <thư-mục-hoặc-tệp.jsonl>`. Bảng theo nguồn: số mẫu, tỉ lệ lỗi, 404, timeout, p50/p95, tỉ lệ cache HIT; tổng, theo ngày, theo giờ (UTC). `--phase first|warm|grid` lọc theo pha.
+- Chạy cục bộ: `node monitor/probe.mjs --pretty` (thoát mã 1 nếu vượt ngưỡng).
+- Bản fork bỏ qua workflow.

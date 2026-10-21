@@ -1,0 +1,64 @@
+name: cdn-monitor
+# Do raw / jsDelivr@master / jsDelivr@sha moi 3 gio, ghi ket qua vao nhanh `monitor` (data/YYYY-MM.jsonl).
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: cdn-monitor
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    if: github.event.repository.fork == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write # chi de day nhanh `monitor`; khong co quyen nao khac
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none # chi lay cay + monitor/, khong tai 66 MB hinh
+          sparse-checkout: monitor
+
+      - name: Do
+        id: probe
+        run: |
+          set +e
+          node monitor/probe.mjs > "$RUNNER_TEMP/result.jsonl"
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+          test -s "$RUNNER_TEMP/result.jsonl"  # khong co ket qua = loi cong cu, dung luon
+
+      - name: Job Summary
+        run: |
+          node monitor/report.mjs "$RUNNER_TEMP/result.jsonl" --short >> "$GITHUB_STEP_SUMMARY"
+          node -e 'const r=JSON.parse(require("fs").readFileSync(process.argv[1]));console.log("\n**"+(r.pass?"DAT":"VUOT NGUONG")+"**"+r.failures.map(f=>"\n- "+f).join("")+"\n\nrelease.json: "+JSON.stringify(r.release))' "$RUNNER_TEMP/result.jsonl" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Ghi vao nhanh monitor
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          f="data/$(date -u +%Y-%m).jsonl"
+          for i in 1 2 3; do
+            rm -rf "$RUNNER_TEMP/mon"; git worktree prune
+            if git fetch --depth 1 origin monitor; then
+              git worktree add -B monitor "$RUNNER_TEMP/mon" FETCH_HEAD
+            else
+              git worktree add --orphan -b monitor "$RUNNER_TEMP/mon"
+            fi
+            mkdir -p "$RUNNER_TEMP/mon/data"
+            cat "$RUNNER_TEMP/result.jsonl" >> "$RUNNER_TEMP/mon/$f"
+            git -C "$RUNNER_TEMP/mon" add "$f"
+            git -C "$RUNNER_TEMP/mon" commit -qm "monitor: $(date -u +%FT%TZ)"
+            git -C "$RUNNER_TEMP/mon" push origin monitor && exit 0
+            sleep $((i * 5))
+          done
+          exit 1
+
+      - name: Bao loi neu vuot nguong
+        if: steps.probe.outputs.code != '0'
+        run: exit 1
