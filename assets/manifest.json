@@ -1,0 +1,1444 @@
+{
+  "iconify.icon.46cac343": {
+    "file": "assets/iconify.icon.46cac343.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "MIT",
+      "attribution": null,
+      "source": "iconify:tabler:cell"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.2ae98240": {
+    "file": "assets/iconify.icon.2ae98240.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:heart"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.edfaeb7f": {
+    "file": "assets/iconify.icon.edfaeb7f.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "MIT",
+      "attribution": null,
+      "source": "iconify:iconoven:neuron"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.fc417794": {
+    "file": "assets/iconify.icon.fc417794.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:atom"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.c4fb6f31": {
+    "file": "assets/iconify.icon.c4fb6f31.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "MIT",
+      "attribution": null,
+      "source": "iconify:boxicons:microchip"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.4307d051": {
+    "file": "assets/iconify.icon.4307d051.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:solar-panel"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.a137e98a": {
+    "file": "assets/iconify.icon.a137e98a.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "iconify:pinhead:lungs"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 15 15",
+    "darkModeReady": true
+  },
+  "iconify.icon.d873d48b": {
+    "file": "assets/iconify.icon.d873d48b.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:brain"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.dcae92a9": {
+    "file": "assets/iconify.icon.dcae92a9.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:virus"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.ac2421b2": {
+    "file": "assets/iconify.icon.ac2421b2.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "iconify:pinhead:bacteria"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 15 15",
+    "darkModeReady": true
+  },
+  "iconify.icon.807ea2ec": {
+    "file": "assets/iconify.icon.807ea2ec.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:telescope"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.2c926a30": {
+    "file": "assets/iconify.icon.2c926a30.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "iconify:pinhead:kidneys"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 15 15",
+    "darkModeReady": true
+  },
+  "iconify.icon.4c5209b7": {
+    "file": "assets/iconify.icon.4c5209b7.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:rocket"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.94fcabc1": {
+    "file": "assets/iconify.icon.94fcabc1.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:microscope"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.fec0a103": {
+    "file": "assets/iconify.icon.fec0a103.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:satellite"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.802511d5": {
+    "file": "assets/iconify.icon.802511d5.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "MIT",
+      "attribution": null,
+      "source": "iconify:tabler:galaxy"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.c64cee7e": {
+    "file": "assets/iconify.icon.c64cee7e.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:planet"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.ecda5d25": {
+    "file": "assets/iconify.icon.ecda5d25.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "MIT",
+      "attribution": null,
+      "source": "iconify:mynaui:lightning"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.a487688e": {
+    "file": "assets/iconify.icon.a487688e.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:battery"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.65bf269e": {
+    "file": "assets/iconify.icon.65bf269e.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:magnet"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.24a031bf": {
+    "file": "assets/iconify.icon.24a031bf.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:flask"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.c4748af0": {
+    "file": "assets/iconify.icon.c4748af0.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:molecule"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.0d42d89f": {
+    "file": "assets/iconify.icon.0d42d89f.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "iconify:pinhead:wind-turbine"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 15 15",
+    "darkModeReady": true
+  },
+  "iconify.icon.7b8bb11c": {
+    "file": "assets/iconify.icon.7b8bb11c.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:test-tube"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.edf2dae0": {
+    "file": "assets/iconify.icon.edf2dae0.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:stethoscope"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.dfa877fa": {
+    "file": "assets/iconify.icon.dfa877fa.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:thermometer"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.c8a4e3ca": {
+    "file": "assets/iconify.icon.c8a4e3ca.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:syringe"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.e9d91583": {
+    "file": "assets/iconify.icon.e9d91583.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:pill"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.864a400f": {
+    "file": "assets/iconify.icon.864a400f.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:bone"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.236b2604": {
+    "file": "assets/iconify.icon.236b2604.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:eye"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.8df5e3bb": {
+    "file": "assets/iconify.icon.8df5e3bb.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "MIT",
+      "attribution": null,
+      "source": "iconify:tabler:ear"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.c7bbcd75": {
+    "file": "assets/iconify.icon.c7bbcd75.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:tooth"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.171d44cc": {
+    "file": "assets/iconify.icon.171d44cc.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "iconify:pinhead:stomach"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 15 15",
+    "darkModeReady": true
+  },
+  "iconify.icon.e4c438fc": {
+    "file": "assets/iconify.icon.e4c438fc.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "iconify:pinhead:liver"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 15 15",
+    "darkModeReady": true
+  },
+  "iconify.icon.a38dd7b6": {
+    "file": "assets/iconify.icon.a38dd7b6.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:leaf"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.d4c0e8a0": {
+    "file": "assets/iconify.icon.d4c0e8a0.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:blood"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.72a07aad": {
+    "file": "assets/iconify.icon.72a07aad.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:tree"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.e5796ee0": {
+    "file": "assets/iconify.icon.e5796ee0.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:flower"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.8336f5e2": {
+    "file": "assets/iconify.icon.8336f5e2.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "MIT",
+      "attribution": null,
+      "source": "iconify:tabler:sun"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.534e81ec": {
+    "file": "assets/iconify.icon.534e81ec.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "MIT",
+      "attribution": null,
+      "source": "iconify:line-md:moon"
+    },
+    "colorMode": "multi",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": false
+  },
+  "iconify.icon.02d4cf01": {
+    "file": "assets/iconify.icon.02d4cf01.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:seed"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.cf9e0936": {
+    "file": "assets/iconify.icon.cf9e0936.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:earth"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.b365847e": {
+    "file": "assets/iconify.icon.b365847e.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:volcano"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.934d2d45": {
+    "file": "assets/iconify.icon.934d2d45.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "MIT",
+      "attribution": null,
+      "source": "iconify:iconoven:rain"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.4001aeae": {
+    "file": "assets/iconify.icon.4001aeae.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:water"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.26ab5c46": {
+    "file": "assets/iconify.icon.26ab5c46.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:gear"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.c79f893b": {
+    "file": "assets/iconify.icon.c79f893b.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "MIT",
+      "attribution": null,
+      "source": "iconify:iconoven:circuit"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.a23d3ba2": {
+    "file": "assets/iconify.icon.a23d3ba2.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:fire"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.e6aa22a2": {
+    "file": "assets/iconify.icon.e6aa22a2.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:database"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.9b7cd4ad": {
+    "file": "assets/iconify.icon.9b7cd4ad.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:server"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.66914103": {
+    "file": "assets/iconify.icon.66914103.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "MIT",
+      "attribution": null,
+      "source": "iconify:tabler:cpu"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.ff7359fd": {
+    "file": "assets/iconify.icon.ff7359fd.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:robot"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.6ea46564": {
+    "file": "assets/iconify.icon.6ea46564.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:wifi"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.cf922385": {
+    "file": "assets/iconify.icon.cf922385.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:drone"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.50608a74": {
+    "file": "assets/iconify.icon.50608a74.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:airplane"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.0b84655b": {
+    "file": "assets/iconify.icon.0b84655b.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:electric-car"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.10c01427": {
+    "file": "assets/iconify.icon.10c01427.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "iconify:simple-icons:prismic"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.a4360324": {
+    "file": "assets/iconify.icon.a4360324.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:wave"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.b7855d85": {
+    "file": "assets/iconify.icon.b7855d85.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:fingerprint"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.6457d22f": {
+    "file": "assets/iconify.icon.6457d22f.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "iconify:simple-icons:lens"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.beb85c3e": {
+    "file": "assets/iconify.icon.beb85c3e.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:lock"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.589d2929": {
+    "file": "assets/iconify.icon.589d2929.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "MIT",
+      "attribution": null,
+      "source": "iconify:boxicons:light-bulb"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.6aa2e91e": {
+    "file": "assets/iconify.icon.6aa2e91e.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:bomb"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.80701268": {
+    "file": "assets/iconify.icon.80701268.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "MIT",
+      "attribution": null,
+      "source": "iconify:iconoven:astronaut"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.8eb9ad92": {
+    "file": "assets/iconify.icon.8eb9ad92.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:clock"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.da55d42d": {
+    "file": "assets/iconify.icon.da55d42d.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:compass"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.eebdcf4e": {
+    "file": "assets/iconify.icon.eebdcf4e.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:fish"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.aa8c48a2": {
+    "file": "assets/iconify.icon.aa8c48a2.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:bird"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.fbd51313": {
+    "file": "assets/iconify.icon.fbd51313.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:mdi:bug"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.9c1f81b3": {
+    "file": "assets/iconify.icon.9c1f81b3.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:train"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.fbdfaa37": {
+    "file": "assets/iconify.icon.fbdfaa37.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:diamond"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.80cd5765": {
+    "file": "assets/iconify.icon.80cd5765.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:snowflake"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.13fe7b03": {
+    "file": "assets/iconify.icon.13fe7b03.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "MIT",
+      "attribution": null,
+      "source": "iconify:tabler:wind"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.e9b8cb54": {
+    "file": "assets/iconify.icon.e9b8cb54.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:computer"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.9def4cbc": {
+    "file": "assets/iconify.icon.9def4cbc.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "MIT",
+      "attribution": null,
+      "source": "iconify:iconoven:chart"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.368dac47": {
+    "file": "assets/iconify.icon.368dac47.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:smartphone"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.7ada4df3": {
+    "file": "assets/iconify.icon.7ada4df3.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:camera"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.30e2caa0": {
+    "file": "assets/iconify.icon.30e2caa0.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:scale"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "iconify.icon.4ac20827": {
+    "file": "assets/iconify.icon.4ac20827.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "Apache-2.0",
+      "attribution": null,
+      "source": "iconify:material-symbols:cloud"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 24 24",
+    "darkModeReady": true
+  },
+  "bioicons.diagram.f7b29385": {
+    "file": "assets/bioicons.diagram.f7b29385.svg",
+    "class": "diagram",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "bioicons:cc-0/Intracellular_components/jaiganesh/mitochondria"
+    },
+    "colorMode": "multi",
+    "viewBox": "0 0 43.903 46.098",
+    "darkModeReady": true
+  },
+  "bioicons.diagram.c2bf6b0b": {
+    "file": "assets/bioicons.diagram.c2bf6b0b.svg",
+    "class": "diagram",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "bioicons:cc-0/Intracellular_components/jaiganesh/ribosome"
+    },
+    "colorMode": "multi",
+    "viewBox": "0 0 4.275 4.214",
+    "darkModeReady": false
+  },
+  "bioicons.diagram.6c29f13c": {
+    "file": "assets/bioicons.diagram.6c29f13c.svg",
+    "class": "diagram",
+    "layers": [],
+    "license": {
+      "spdx": "CC-BY-3.0",
+      "attribution": "\"chromosome\" by Servier, CC BY 3.0, https://bioicons.com",
+      "source": "bioicons:cc-by-3.0/Genetics/Servier/chromosome"
+    },
+    "colorMode": "multi",
+    "viewBox": "0 0 381.165 481.172",
+    "darkModeReady": false
+  },
+  "bioicons.diagram.dfabbf40": {
+    "file": "assets/bioicons.diagram.dfabbf40.svg",
+    "class": "diagram",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "bioicons:cc-0/Blood_Immunology/Derek-Croote/antibody_heavy_chain_vdj_recombination"
+    },
+    "colorMode": "multi",
+    "viewBox": "0 0 694.204 350.593",
+    "darkModeReady": false
+  },
+  "bioicons.diagram.54a59f87": {
+    "file": "assets/bioicons.diagram.54a59f87.svg",
+    "class": "diagram",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "bioicons:cc-0/Cell_types/EwaOz/redbloodcell"
+    },
+    "colorMode": "multi",
+    "viewBox": "0 0 200 200",
+    "darkModeReady": false
+  },
+  "bioicons.diagram.555480ec": {
+    "file": "assets/bioicons.diagram.555480ec.svg",
+    "class": "diagram",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "bioicons:cc-0/Human_physiology/Fabian-Mikulasch/Pyramidal_Neuron"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 35.729 59.063",
+    "darkModeReady": true
+  },
+  "bioicons.diagram.688363c3": {
+    "file": "assets/bioicons.diagram.688363c3.svg",
+    "class": "diagram",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "bioicons:cc-0/Cell_culture/B--Gideon-Bergheim/Bacteria_colonies"
+    },
+    "colorMode": "multi",
+    "viewBox": "0 0 42.339 31.634",
+    "darkModeReady": false
+  },
+  "bioicons.diagram.60a05189": {
+    "file": "assets/bioicons.diagram.60a05189.svg",
+    "class": "diagram",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "bioicons:cc-0/Cell_culture/B--Gideon-Bergheim/bacteria_culture_cotton_swap"
+    },
+    "colorMode": "multi",
+    "viewBox": "0 0 19.007 274.457",
+    "darkModeReady": true
+  },
+  "bioicons.diagram.6c56a012": {
+    "file": "assets/bioicons.diagram.6c56a012.svg",
+    "class": "diagram",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "bioicons:cc-0/Nucleic_acids/Kumar/DNA"
+    },
+    "colorMode": "multi",
+    "viewBox": "0 0 295 1144",
+    "darkModeReady": false
+  },
+  "bioicons.diagram.7f7e9253": {
+    "file": "assets/bioicons.diagram.7f7e9253.svg",
+    "class": "diagram",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "bioicons:cc-0/Genetics/umasstr/AAV_adenovirus"
+    },
+    "colorMode": "multi",
+    "viewBox": "0 0 116.339 94.273",
+    "darkModeReady": false
+  },
+  "bioicons.diagram.94bfc187": {
+    "file": "assets/bioicons.diagram.94bfc187.svg",
+    "class": "diagram",
+    "layers": [],
+    "license": {
+      "spdx": "CC-BY-3.0",
+      "attribution": "\"lung\" by Servier, CC BY 3.0, https://bioicons.com",
+      "source": "bioicons:cc-by-3.0/Human_physiology/Servier/lung"
+    },
+    "colorMode": "multi",
+    "viewBox": "0 0 465.6 440.844",
+    "darkModeReady": false
+  },
+  "bioicons.diagram.05bbb7b5": {
+    "file": "assets/bioicons.diagram.05bbb7b5.svg",
+    "class": "diagram",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "bioicons:cc-0/Tissues/EmilyADaniel/mousekidney_cystic_sagittal"
+    },
+    "colorMode": "multi",
+    "viewBox": "0 0 58.62 90.19",
+    "darkModeReady": false
+  },
+  "bioicons.diagram.37f05687": {
+    "file": "assets/bioicons.diagram.37f05687.svg",
+    "class": "diagram",
+    "layers": [],
+    "license": {
+      "spdx": "CC-BY-3.0",
+      "attribution": "\"heart\" by Servier, CC BY 3.0, https://bioicons.com",
+      "source": "bioicons:cc-by-3.0/Human_physiology/Servier/heart"
+    },
+    "colorMode": "multi",
+    "viewBox": "0 0 312.68 436.195",
+    "darkModeReady": false
+  },
+  "bioicons.diagram.89782afc": {
+    "file": "assets/bioicons.diagram.89782afc.svg",
+    "class": "diagram",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "bioicons:cc-0/Human_physiology/Jan-Clusmann/cirrhotic_liver"
+    },
+    "colorMode": "multi",
+    "viewBox": "0 0 210 180",
+    "darkModeReady": false
+  },
+  "bioicons.diagram.99341393": {
+    "file": "assets/bioicons.diagram.99341393.svg",
+    "class": "diagram",
+    "layers": [],
+    "license": {
+      "spdx": "CC-BY-3.0",
+      "attribution": "\"brain-1\" by Servier, CC BY 3.0, https://bioicons.com",
+      "source": "bioicons:cc-by-3.0/Human_physiology/Servier/brain-1"
+    },
+    "colorMode": "multi",
+    "viewBox": "0 0 346.696 244.951",
+    "darkModeReady": false
+  },
+  "phylopic.icon.d348b92b": {
+    "file": "assets/phylopic.icon.d348b92b.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "phylopic:f46f28c7-b3da-485e-9af0-9839b63138e0"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 271.1 509.5",
+    "darkModeReady": true
+  },
+  "phylopic.icon.f1fd429a": {
+    "file": "assets/phylopic.icon.f1fd429a.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "phylopic:11ccace5-9ad4-409b-97fe-9320058280c7"
+    },
+    "colorMode": "duotone",
+    "viewBox": "0 0 15.634 8.101",
+    "darkModeReady": false
+  },
+  "phylopic.icon.c1e60728": {
+    "file": "assets/phylopic.icon.c1e60728.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "phylopic:23ddcc50-103c-432b-a5cc-f41f688bba8a"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 1874 1293",
+    "darkModeReady": true
+  },
+  "nasa.photo.1123bc8e": {
+    "file": "assets/nasa.photo.1123bc8e.jpg",
+    "class": "photo",
+    "layers": [],
+    "license": {
+      "spdx": "LicenseRef-NASA-PD",
+      "attribution": null,
+      "source": "nasa:PIA12235"
+    },
+    "colorMode": "multi",
+    "width": 1280,
+    "height": 896,
+    "darkModeReady": true
+  },
+  "phylopic.icon.b9c29d6e": {
+    "file": "assets/phylopic.icon.b9c29d6e.svg",
+    "class": "icon",
+    "layers": [],
+    "license": {
+      "spdx": "CC0-1.0",
+      "attribution": null,
+      "source": "phylopic:ccb9b896-20b5-4e0b-8979-001742a884c5"
+    },
+    "colorMode": "mono",
+    "viewBox": "0 0 2748 1407",
+    "darkModeReady": true
+  },
+  "nasa.photo.d0470ba7": {
+    "file": "assets/nasa.photo.d0470ba7.jpg",
+    "class": "photo",
+    "layers": [],
+    "license": {
+      "spdx": "LicenseRef-NASA-PD",
+      "attribution": null,
+      "source": "nasa:PIA18033"
+    },
+    "colorMode": "multi",
+    "width": 1280,
+    "height": 1280,
+    "darkModeReady": true
+  },
+  "nasa.photo.39073f83": {
+    "file": "assets/nasa.photo.39073f83.jpg",
+    "class": "photo",
+    "layers": [],
+    "license": {
+      "spdx": "LicenseRef-NASA-PD",
+      "attribution": null,
+      "source": "nasa:PIA01324"
+    },
+    "colorMode": "multi",
+    "width": 600,
+    "height": 992,
+    "darkModeReady": true
+  },
+  "nasa.photo.3f200ed3": {
+    "file": "assets/nasa.photo.3f200ed3.jpg",
+    "class": "photo",
+    "layers": [],
+    "license": {
+      "spdx": "LicenseRef-NASA-PD",
+      "attribution": null,
+      "source": "nasa:PIA01973"
+    },
+    "colorMode": "multi",
+    "width": 425,
+    "height": 460,
+    "darkModeReady": true
+  },
+  "nasa.photo.5d15d4a2": {
+    "file": "assets/nasa.photo.5d15d4a2.jpg",
+    "class": "photo",
+    "layers": [],
+    "license": {
+      "spdx": "LicenseRef-NASA-PD",
+      "attribution": null,
+      "source": "nasa:PIA12110"
+    },
+    "colorMode": "multi",
+    "width": 1246,
+    "height": 1280,
+    "darkModeReady": true
+  },
+  "nasa.photo.38f84bb6": {
+    "file": "assets/nasa.photo.38f84bb6.jpg",
+    "class": "photo",
+    "layers": [],
+    "license": {
+      "spdx": "LicenseRef-NASA-PD",
+      "attribution": null,
+      "source": "nasa:NHQ201905310037"
+    },
+    "colorMode": "multi",
+    "width": 1280,
+    "height": 1055,
+    "darkModeReady": true
+  },
+  "nasa.photo.e374d901": {
+    "file": "assets/nasa.photo.e374d901.jpg",
+    "class": "photo",
+    "layers": [],
+    "license": {
+      "spdx": "LicenseRef-NASA-PD",
+      "attribution": null,
+      "source": "nasa:PIA18906"
+    },
+    "colorMode": "multi",
+    "width": 1280,
+    "height": 650,
+    "darkModeReady": true
+  },
+  "nasa.photo.2b735a12": {
+    "file": "assets/nasa.photo.2b735a12.jpg",
+    "class": "photo",
+    "layers": [],
+    "license": {
+      "spdx": "LicenseRef-NASA-PD",
+      "attribution": null,
+      "source": "nasa:PIA14417"
+    },
+    "colorMode": "multi",
+    "width": 1280,
+    "height": 640,
+    "darkModeReady": true
+  },
+  "wellcome.photo.c36cd46b": {
+    "file": "assets/wellcome.photo.c36cd46b.jpg",
+    "class": "photo",
+    "layers": [],
+    "license": {
+      "spdx": "LicenseRef-PD",
+      "attribution": null,
+      "source": "wellcome:m5c2yx7j"
+    },
+    "colorMode": "multi",
+    "width": 800,
+    "height": 1308,
+    "darkModeReady": true
+  },
+  "wellcome.photo.2cabe76f": {
+    "file": "assets/wellcome.photo.2cabe76f.jpg",
+    "class": "photo",
+    "layers": [],
+    "license": {
+      "spdx": "LicenseRef-PD",
+      "attribution": null,
+      "source": "wellcome:dgets69j"
+    },
+    "colorMode": "multi",
+    "width": 800,
+    "height": 1177,
+    "darkModeReady": true
+  },
+  "wellcome.photo.a1cea735": {
+    "file": "assets/wellcome.photo.a1cea735.jpg",
+    "class": "photo",
+    "layers": [],
+    "license": {
+      "spdx": "CC-BY",
+      "attribution": "\"Dendritic cell interacting with a T cell\" by Wellcome Collection, CC BY, https://wellcomecollection.org/works/zu7tqmx9",
+      "source": "wellcome:zu7tqmx9"
+    },
+    "colorMode": "multi",
+    "width": 800,
+    "height": 591,
+    "darkModeReady": true
+  },
+  "wellcome.photo.21cc85a5": {
+    "file": "assets/wellcome.photo.21cc85a5.jpg",
+    "class": "photo",
+    "layers": [],
+    "license": {
+      "spdx": "LicenseRef-PD",
+      "attribution": null,
+      "source": "wellcome:dtcq7wx7"
+    },
+    "colorMode": "multi",
+    "width": 800,
+    "height": 1323,
+    "darkModeReady": true
+  }
+}
