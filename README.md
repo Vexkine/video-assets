@@ -39,3 +39,7 @@ Workflow `.github/workflows/cdn-monitor.yml` chạy **mỗi 3 giờ** (và tay: 
 - Đọc báo cáo: `node monitor/report.mjs --fetch --since 2026-10-21` (lấy `data/` từ nhánh `monitor` qua git), hoặc `node monitor/report.mjs <thư-mục-hoặc-tệp.jsonl>`. Bảng theo nguồn: số mẫu, tỉ lệ lỗi, 404, timeout, p50/p95, tỉ lệ cache HIT; tổng, theo ngày, theo giờ (UTC). `--phase first|warm|grid` lọc theo pha.
 - Chạy cục bộ: `node monitor/probe.mjs --pretty` (thoát mã 1 nếu vượt ngưỡng).
 - Bản fork bỏ qua workflow.
+
+## Chỉ mục tìm kiếm (`index/`)
+
+`index/` là chỉ mục **sinh tự động** để truy vấn trực tiếp từ CDN tĩnh, không cần máy chủ: `release.json` (con trỏ: phiên bản, `commit` của kho hình, đếm, kích thước và băm từng tệp), `meta/<hh>.json` (256 phân mảnh: loại, màu, giấy phép, dung lượng, nguồn, từ khoá), `search/<tt>.json` (chỉ mục ngược theo 2 ký tự đầu của token đã bỏ dấu), `collections/<từ-khoá>.json`, `concepts.vi.json` (từ điển Việt→Anh), `attribution/<hh>.json` (đoạn ghi công và giấy phép nguyên văn của hình CC-BY). **Không sửa tay.** Sinh lại bằng `cd asset-engine && npx tsx src/cli.ts publish-index --assets ../video-assets --out ../video-assets/index --tag vYYYY.MM.DD-N`, rồi commit chỉ `index/`; cùng đầu vào cho cùng byte. Truy vấn thử: `npx tsx src/cli.ts cdn-search "tế bào" --class icon`. Định dạng: `asset-engine/docs/CONTRACT.md`, thiết kế: `asset-engine/docs/CDN-PLAN.md`. Ảnh JPEG nằm ở Git LFS nên `raw`/jsDelivr chỉ trả tệp con trỏ; chỉ mục vẫn liệt kê chúng.
