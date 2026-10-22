@@ -52,7 +52,7 @@ jobs:
             fi
             mkdir -p "$RUNNER_TEMP/mon/data"
             cat "$RUNNER_TEMP/result.jsonl" >> "$RUNNER_TEMP/mon/$f"
-            git -C "$RUNNER_TEMP/mon" add "$f"
+            git -C "$RUNNER_TEMP/mon" add --sparse "$f"
             git -C "$RUNNER_TEMP/mon" commit -qm "monitor: $(date -u +%FT%TZ)"
             git -C "$RUNNER_TEMP/mon" push origin monitor && exit 0
             sleep $((i * 5))
