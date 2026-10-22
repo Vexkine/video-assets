@@ -1418,8 +1418,8 @@
     "class": "photo",
     "layers": [],
     "license": {
-      "spdx": "CC-BY",
-      "attribution": "\"Dendritic cell interacting with a T cell\" by Wellcome Collection, CC BY, https://wellcomecollection.org/works/zu7tqmx9",
+      "spdx": "CC-BY-4.0",
+      "attribution": "\"Dendritic cell interacting with a T cell\" by Wellcome Collection, CC BY 4.0, https://wellcomecollection.org/works/zu7tqmx9",
       "source": "wellcome:zu7tqmx9"
     },
     "colorMode": "multi",
